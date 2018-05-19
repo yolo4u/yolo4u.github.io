@@ -24,12 +24,12 @@ a.next {
     background-color: #FC6264;
     border: none;
     color: white;
-    padding: 80px 50px 80px 50px;
+    padding: 100px 70px 100px 70px;
     text-align: center;
     display: flex;
     text-decoration: none;
     display: inline-block;
-    font-size: 70%;
+    font-size: 80%;
     border-radius: 100%;
     align-items: center;
 }
