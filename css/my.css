@@ -15,7 +15,7 @@ a.leave {
     text-decoration: none;
     display: inline-block;
     font-size: 60%;
-    border-radius: 10px;
+    border-radius: 5px;
     margin-right:200px;
 }
 a.next {
@@ -24,12 +24,27 @@ a.next {
     background-color: #FC6264;
     border: none;
     color: white;
-    padding: 50px;
+    padding: 60px 30px 60px 30px;
     text-align: center;
     display: flex;
     text-decoration: none;
     display: inline-block;
     font-size: 70%;
-    border-radius: 30px;
+    border-radius: 100px;
+    align-items: center;
+}
+a.final {
+    -webkit-box-pack: center;
+    justify-content: center;
+    background-color: #5edbab;
+    border: none;
+    color: white;
+    padding: 100px 70px 100px 70px;
+    text-align: center;
+    display: flex;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 80%;
+    border-radius: 100%;
     align-items: center;
 }
