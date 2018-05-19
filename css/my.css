@@ -24,21 +24,22 @@ a.next {
     background-color: #FC6264;
     border: none;
     color: white;
-    padding: 60px 30px 60px 30px;
+    padding: 80px 50px 80px 50px;
     text-align: center;
     display: flex;
     text-decoration: none;
     display: inline-block;
     font-size: 70%;
-    border-radius: 100px;
+    border-radius: 100%;
     align-items: center;
 }
 a.final {
     -webkit-box-pack: center;
     justify-content: center;
-    background-color: #5edbab;
+    background-color: #ffffff;
     border: none;
-    color: white;
+    color: #FC6264;
+    /* color: #1acc58; */
     padding: 100px 70px 100px 70px;
     text-align: center;
     display: flex;
